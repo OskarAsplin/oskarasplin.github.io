@@ -10,6 +10,18 @@ table {
 
 td {
   width: 33% ;
+  @media only screen and (max-width: 600px) {
+    paddingBottom: 0;
+    paddingTop: 2px;
+    paddingRight: 2px;
+    paddingLeft: 2px;
+  }
+  @media only screen and (min-width: 601px) {
+    paddingBottom: 0;
+    paddingTop: 5px;
+    paddingRight: 5px;
+    paddingLeft: 5px;
+  }
 }
 
 td img {
