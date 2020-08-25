@@ -11,16 +11,16 @@ table {
 td {
   width: 33% ;
   @media only screen and (max-width: 600px) {
-    paddingBottom: 0 !important;
-    paddingTop: 2px !important;
-    paddingRight: 2px !important;
-    paddingLeft: 2px !important;
+    padding-bottom: 0;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 2px;
   }
   @media only screen and (min-width: 601px) {
-    paddingBottom: 0 !important;
-    paddingTop: 5px !important;
-    paddingRight: 5px !important;
-    paddingLeft: 5px !important;
+    padding-bottom: 0;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
   }
 }
 
