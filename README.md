@@ -8,7 +8,7 @@ Code: [github.com/OskarAsplin/spotifest](https://github.com/OskarAsplin/spotifes
 
 Login screen                                       |  Match with selector                          |  Festival matches
 :-------------------------------------------------:|:---------------------------------------------:|:----------------------------------------:
-![login-screen.png](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/login-screen.png)  | ![match-with.png](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/match-with.png) | ![matches.png](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/matches.png)
+![login-screen.jpg](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/login-screen.jpg)  | ![match-with.jpg](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/match-with.jpg) | ![matches.jpg](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/matches.jpg)
 
 Written in React with Typescript and Redux store
 
