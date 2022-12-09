@@ -6,11 +6,24 @@ Code: [github.com/OskarAsplin/spotifest](https://github.com/OskarAsplin/spotifes
 
 #### Screenshots
 
-Login screen                                       |  Match with selector                          |  Festival matches
-:-------------------------------------------------:|:---------------------------------------------:|:----------------------------------------:
-![login-screen.jpg](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/login-screen.jpg)  | ![match-with.jpg](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/match-with.jpg) | ![matches.jpg](https://github.com/OskarAsplin/spotifest/raw/master/screenshots/matches.jpg)
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33.3%">Festival matches</th>
+      <th width="33.3%">Festival page</th>
+      <th width="33.3%">Artist page</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33.3%"><img src="https://github.com/OskarAsplin/spotifest/raw/master/screenshots/matches.png"/></td>
+      <td width="33.3%"><img src="https://github.com/OskarAsplin/spotifest/raw/master/screenshots/festival-page.png"/></td>
+      <td width="33.3%"><img src="https://github.com/OskarAsplin/spotifest/raw/master/screenshots/artist-page.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
-Written in React with Typescript and Redux store
+Written in React with Typescript, Redux and React Query
 
 ## Lembas - Trading bot for cryptocurrencies
 
