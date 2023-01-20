@@ -1,4 +1,4 @@
-## Oskarito Spotifest
+## Spotifest
 
 Check out my music festival finder at [spotifest.app](https://www.spotifest.app/)
 
